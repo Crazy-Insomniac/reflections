@@ -12,3 +12,35 @@ That way you don't have commit everything from the working directory to
 the repository in one go. Creating multiple commits instead allows me 
 break down the working directory into logical segments to commit.
 
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+By only adding specific files to the staging area you can have one commit
+per logical change.
+
+What are some situations when branches would be helpful in keeping your 
+history orginized? How would branches help?
+
+one situation is where I want to add a big feature but don't want to risk 
+ruining the current app. Another scenario would be when I working on 
+multiple features at the same time.
+
+How do diagrams help you visualize the branch structure?
+
+It certainly makes it clearer on how the brunch structure works. I guess 
+I thought it was obvious though.
+
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+
+Well, the features create if the 2 branches get merged to have one big 
+branch. I don't know why we represent it in the diagram the way we do. To 
+see it easier?
+
+What are the pros and cons of Git's automatic merging vs. always doing 
+merges manually?
+
+Git's automatic version is significantly faster. The downside is it can't 
+always resolve all merges, but it's still faster and manually merging all 
+the time.
+
