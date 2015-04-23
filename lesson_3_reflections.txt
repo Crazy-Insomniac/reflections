@@ -13,3 +13,16 @@ feature for example, the last thing I may have wanted is to have my
 progress interupted when another contributer has updated to the 
 repository. 
 
+Describe the differences between forks, clones, and branches. When would 
+you use one instead of the other?
+
+A fork is the equivilant of cloning another repository, but it clones to 
+my account on GitHub instead of my local repository. It's a way to work 
+on my own version of someone elses project, but still have a link back to 
+the other person. Clones are local repositories copied into a local 
+repository, usually I would want to do that if I want to edit the files 
+locally. That would be most of the time. Branches allow me to create 
+local variations to the master branch, but not necessarily have to commit 
+to it. If I decide I want to use the features created in the branch I can 
+merge it to the master branch.
+
