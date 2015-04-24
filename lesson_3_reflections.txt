@@ -35,3 +35,15 @@ continue coding and move on with my life. None of these excuses of having
 a lack of Wifi connection. Then again, I'm not a workaholic. I'd probably 
 spend my time on a long flight sleeping or reading a book.
 
+How would you collaborate without using Git or GitHub? What would be 
+easier, and what would be harder?
+
+I'd probably use Google docs, like I use everything. I could use email. 
+That would be time consuming but do-able. It would be cool because the 
+entire project would be in converation format. In the past I used SVN. We 
+had to have set rules though since we didn't know branching was a thing 
+at the time. Each person was likely to be working on diferent files to 
+minimise conflicts. Code would have to be at least compilable before 
+committing. Typically, I would pull first, work on code, then commit and 
+push to further avoid conflicts too. 
+
