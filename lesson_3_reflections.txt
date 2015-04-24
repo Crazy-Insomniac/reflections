@@ -26,3 +26,12 @@ local variations to the master branch, but not necessarily have to commit
 to it. If I decide I want to use the features created in the branch I can 
 merge it to the master branch.
 
+What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+It's particularly handy when working offline. I can spend the time on my 
+own laptop fixing conflicts and 'uploading' to github. once sorted, I can 
+continue coding and move on with my life. None of these excuses of having 
+a lack of Wifi connection. Then again, I'm not a workaholic. I'd probably 
+spend my time on a long flight sleeping or reading a book.
+
