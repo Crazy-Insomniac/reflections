@@ -47,3 +47,13 @@ minimise conflicts. Code would have to be at least compilable before
 committing. Typically, I would pull first, work on code, then commit and 
 push to further avoid conflicts too. 
 
+When would you want to make changes in a seperate branch rather than 
+directly in master? What benefits does each approach have?
+
+It's sad, but at this point, I'm running out of steam when it comes
+to reflections. Luckily this seems to be the last one. I would make 
+changes in a seperate branch if I was working on something experimental 
+that I would need the collaboraters approval on. Or an extra check for 
+any possible bugs before releasing to the master branch. Considering the 
+master branch in Github is usually public, it's bettyer to release a new 
+feature on a branch until it's confirmed that it's fit for public release.
